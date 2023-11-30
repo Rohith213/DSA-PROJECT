@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a simple console-based email management application that demonstrates the fundamental concepts of data structures. The primary intention behind this project is to explore and implement essential data structure functionalities, such as queues, file handling, and basic operations.
+This project is a simple console-based email system application that demonstrates the fundamental concepts of data structures. The primary intention behind this project is to explore and implement essential data structure functionalities, such as queues, file handling, and basic operations.
 
 ## Features
 
