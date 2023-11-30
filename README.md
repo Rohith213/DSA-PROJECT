@@ -1,4 +1,4 @@
-# Email Management Console Application
+# Mailing System Console Application
 ## Data Structures and Algorithms Project
 
 ## Overview
