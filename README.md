@@ -1,5 +1,5 @@
 # Mailing System Console Application
-## Data Structures and Applications Project
+## Data Structures and its Applications
 
 ## Overview
 
