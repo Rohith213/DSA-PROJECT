@@ -39,3 +39,5 @@ The queue is used to manage the email files. It provides the following functiona
 - `main.c`: Main source code file containing the program logic.
 - `emails.txt`: File to store email data.
 - `mails.txt`: File to keep track of email file names in the queue.
+
+## Clone this repository and run in Visual Studio 2022
